@@ -52,12 +52,6 @@ The objective of this project is to analyze IPL historical data and transform it
 - Track batting milestones such as centuries, fours, and sixes.
 - Evaluate tournament trends and performance patterns.
 
-## 📷 Dashboard Preview
-
-### IPL Analysis Dashboard
-
-![IPL Dashboard](dashboard.png)
-
 
 ## 🔗 Live Dashboard
 
